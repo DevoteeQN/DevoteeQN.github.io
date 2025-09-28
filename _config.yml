@@ -21,7 +21,7 @@ repository               : "DevoteeQN/DevoteeQN.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "b_406c67b708fb60617f449701c85583e7.png"
+  avatar           : "u=1659552792,3869332496&fm=253&gp=0.jpg"
   name             : "Yujia Cai"
   pronouns         : # example: "she/her"  
   bio              : "Xidian University"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
-  pubmed           : 
+  openreview       : https://openreview.net/profile?id=~Yujia_Cai2
   researchgate     : # URL
 
   # Repositories and software development

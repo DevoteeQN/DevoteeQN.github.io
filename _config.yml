@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yujia Cai"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Try Not To Become a Man of Success But Rather Try To Become a Man of Value "
+repository               : "DevoteeQN/DevoteeQN.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "DevoteeQN"
+  github           : "DevoteeQN"
   google_plus      :
   keybase          :
   instagram        :

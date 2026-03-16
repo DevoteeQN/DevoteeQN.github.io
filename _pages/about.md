@@ -26,6 +26,7 @@ I am particularly interested in learning robust and efficient representations th
 # 🔥 News
 - *2026.01*: 🎉 Our paper **Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation** was accepted to ICLR 2026.
 
+# 📝 Publications 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
@@ -54,7 +55,9 @@ improvements in cross-style retrieval and zero-shot classification.
 </div>
 </div>
 
+<!--
 - [Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation](https://openreview.net/forum?id=tiWCvwi4b8), ICLR, 2026
+-->
 
 <!--
 # 🎖 Honors and Awards

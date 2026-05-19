@@ -81,4 +81,4 @@ improvements in cross-style retrieval and zero-shot classification.
 
 # 💻 Internships
 - *Oct 2024 – Present*, Research Intern, OPTIC Lab, Xidian University, China.
-- *Jan 2026 – Present*, Research Intern, Stony Brook University, USA.
+- *Oct 2025 – Present*, Research Intern, Stony Brook University, USA.

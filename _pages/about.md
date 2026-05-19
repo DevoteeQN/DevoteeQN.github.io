@@ -37,13 +37,13 @@ I am particularly interested in learning robust and efficient representations th
 
 <div class='paper-box-text' markdown="1">
 
-[Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation](https://openreview.net/forum?id=tiWCvwi4b8)
+[Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation](https://iclr.cc/virtual/2026/poster/10006957)
 
 **Yujia Cai**, Boxuan Li, Chenghao Xu, Jiexi Yan
 
 International Conference on Learning Representations (ICLR), 2026
 
-[**Paper**](https://openreview.net/forum?id=tiWCvwi4b8)
+[**Paper**](https://arxiv.org/abs/2605.10009)
 
 - We propose **Hystar**, a hypernetwork-driven style-adaptive retrieval framework 
 that dynamically modulates the singular values of attention layers via hypernetworks 

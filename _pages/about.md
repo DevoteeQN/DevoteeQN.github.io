@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Yujia Cai, a third-year undergraduate student majoring in Computer Science at Xidian University.
-My research experience spans Computer Vision and Multimodal Learning, with prior work on retrieval, sketch-based representation, domain adaptation, and medical image analysis.
+Hello! I am Yujia Cai, a third-year undergraduate student majoring in Computer Science at Xidian University. I am currently a research intern at Stony Brook University, advised by Prof. [Chenyu You](https://chenyuyou.me/), and I also collaborate closely with [Qin Ren](https://soonera.github.io/qinren/). Previously, I worked on Style-adaptive Retrieval with [Jiexi Yan](https://faculty.xidian.edu.cn/YANJIEXI/zh_CN/index.htm).
+My research experience spans Computer Vision and Multimodal Learning, with prior work on retrieval, domain adaptation, and medical image analysis.
 
 I am particularly interested in learning robust and efficient representations that generalize across domains and modalities, and in building practical models for vision and multimodal understanding.
 
@@ -76,4 +76,4 @@ improvements in cross-style retrieval and zero-shot classification.
 
 # 💻 Internships
 - *Oct 2024 – Present*, Research Intern, OPTIC Lab, Xidian University, China.
-- *Jan 2026 – Present*, Research Intern (Remote), Stony Brook University, USA.
+- *Jan 2026 – Present*, Research Intern, Stony Brook University, USA.

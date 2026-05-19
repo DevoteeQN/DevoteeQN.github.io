@@ -70,8 +70,8 @@ improvements in cross-style retrieval and zero-shot classification.
 
 # 📝 Academic Service
 
-- *2026.01 – Present* Journal Reviewer, *Pattern Recognition*.
-- *2025 – Present* Journal Reviewer, *IEEE Transactions on Neural Networks and Learning Systems*.
+- Journal Reviewer, *Pattern Recognition*.
+- Journal Reviewer, *IEEE Transactions on Neural Networks and Learning Systems*.
 
 <!--  
 # 💬 Invited Talks

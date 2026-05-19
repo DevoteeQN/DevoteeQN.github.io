@@ -66,7 +66,12 @@ improvements in cross-style retrieval and zero-shot classification.
 -->
 
 # 📖 Educations
-- *2023.09 - 2027.06 (now)*, Bachelor of Science in Computer Science, Xidian University, Xi’an, China
+- *2023.09 – Present*, B.S. in Computer Science, National Top-Notch Student Training Program 2.0 in Basic Disciplines, Xidian University, Xi’an, China. Expected Jun. 2027.
+
+# 📝 Academic Service
+
+- *2026.01 – Present* Journal Reviewer, *Pattern Recognition*.
+- *2025 – Present* Journal Reviewer, *IEEE Transactions on Neural Networks and Learning Systems*.
 
 <!--  
 # 💬 Invited Talks

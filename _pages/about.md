@@ -43,8 +43,8 @@ I am particularly interested in learning robust and efficient representations th
 
 International Conference on Learning Representations (ICLR), 2026
 
-[**Paper**](https://arxiv.org/abs/2605.10009)
-[**Code**](https://github.com/DevoteeQN/Hystar-ICLR2026)
+🔗 [**Paper**](https://arxiv.org/abs/2605.10009)
+⌨️ [**Code**](https://github.com/DevoteeQN/Hystar-ICLR2026)
 
 - We propose **Hystar**, a hypernetwork-driven style-adaptive retrieval framework 
 that dynamically modulates the singular values of attention layers via hypernetworks 
